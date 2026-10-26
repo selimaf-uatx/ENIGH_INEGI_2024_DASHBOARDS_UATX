@@ -9,8 +9,7 @@ The primary goal of this initiative is to transform raw, unstructured matrix-sty
 
 ## 👥 Authors & Collaborators
 * **Project Lead / Lead Instructor:** [Servio Edoardo Lima Fragoso / GitHub Handle]
-* **Co-Author / Lead Data Analyst:** [Name of the Student who co-created the base model]
-* **Student Contributors (4th Semester Applied Statistics):**
+* **Student Contributors (4th Semester Economics and Finance):**
   * [Student 1 Name] - Tabulation: [Table Name/ID]
   * [Student 2 Name] - Tabulation: [Table Name/ID]
 

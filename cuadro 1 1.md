@@ -7,9 +7,9 @@ Cuadro 1.1 - POBLACIÓN TOTAL POR GRUPOS DE EDAD Y ENTIDAD FEDERATIVA SEGÚN SEX
 #### 🛠️ Step-by-Step Data Pipeline & Analytical Process
 
 1. **INEGI Source Table Selection:**
-   * Downloaded raw data table: *[INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025.
-Cuadro 1.1 - POBLACIÓN TOTAL POR GRUPOS DE EDAD Y ENTIDAD FEDERATIVA SEGÚN SEXO Y TAMAÑO DE LOCALIDAD
-](docs/screenshots/Cuadro_1_1_Poblacion_por_localidad_y_genero_original_table.png)*.
+   * Downloaded raw data table: ![INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025.
+Cuadro 1.1 - POBLACIÓN TOTAL POR GRUPOS DE EDAD Y ENTIDAD FEDERATIVA SEGÚN SEXO Y TAMAÑO DE LOCALIDAD.
+](docs/screenshots/Cuadro_1_1_Poblacion_por_localidad_y_genero_original_table.png)
 
 2. **Variable Identification (Dimensions vs. Metrics):**
    * **Dimensions (Categorical):** `Age Group` (*Grupo de Edad*), `Locality Size` (*Tamaño de Localidad*), `Gender` (*Género*), and `State` (*Entidad Federativa*).

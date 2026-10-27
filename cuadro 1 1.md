@@ -19,7 +19,7 @@ Cuadro 1.1 - POBLACIÓN TOTAL POR GRUPOS DE EDAD Y ENTIDAD FEDERATIVA SEGÚN SEX
    * Reshaped and unpivoted the original matrix table into a normalized flat structure (*Tidy Data*) in Google Sheets, removing header overlays and total/subtotal rows to avoid double-counting.
    
    ##### Normalized Dataset Preview:
-   ![Tidy Data Screenshot](docs/screenshots/Cuadro 1 1 Poblacion por localidad y genero - dashboard.png)
+   ![Tidy Data Screenshot](docs/screenshots/Cuadro_1_1_Poblacion_por_localidad_y_genero_dashboard.png)
 
 4. **BI Connection:**
    * Connected the processed Google Sheet directly to Looker Studio as a live data source, validating metric aggregation settings (ensuring `Population` is set to `SUM`).

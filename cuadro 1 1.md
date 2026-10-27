@@ -12,9 +12,20 @@ Cuadro 1.1 - POBLACIÓN TOTAL POR GRUPOS DE EDAD Y ENTIDAD FEDERATIVA SEGÚN SEX
 ](docs/screenshots/Cuadro_1_1_Poblacion_por_localidad_y_genero_original_table.png)
 
 2. **Variable Identification (Dimensions vs. Metrics):**
-   * **Dimensions (Categorical):** `Age Group` (*Grupo de Edad*), `Locality Size` (*Tamaño de Localidad*), `Gender` (*Género*), and `State` (*Entidad Federativa*).
-   * **Metric (Numerical):** `Population` (*Población en personas*).
+   * **`Age Group` (*Grupo de Edad*):**
+     *Categorical ranges dividing the population into 5-year age brackets (0-4, 5-11, 12-19, 20-29, 30-39,... up to 60+).*
 
+   * **`Locality Size` (*Tamaño de Localidad*):**
+     *Geographic classification separating urban areas (≥ 2,500 inhabitants) from rural areas (< 2,500 inhabitants).*
+
+   * **`Gender` (*Género*):**
+     *Demographic breakdown identifying male (*Hombres*) and female (*Mujeres*) population counts.*
+
+   * **`State` (*Entidad Federativa*):**
+     *Geographic dimension representing the 32 federal entities/states of Mexico.*
+
+   * **`Population` (*Población* - Metric):**
+     *The unique numerical field counting the total number of individuals in each demographic group.*
 3. **Tidy Data Transformation:**
    * Reshaped and unpivoted the original matrix table into a normalized flat structure (*Tidy Data*) in Google Sheets, removing header overlays and total/subtotal rows to avoid double-counting.
    

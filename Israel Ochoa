@@ -1,0 +1,41 @@
+# Collaborative Repository Overview
+
+## Introduction
+We are currently working on a collaborative repository on GitHub[cite: 1]. After setting up the initial `README.md` file, this document outlines the steps followed, the original dataset used, its transformation into a tidy format using Google Sheets based on specific dimensions and metrics, and the final report created in Looker Studio Overview[cite: 1].
+
+## 1. Data Source
+* **Origin:** INEGI (Instituto Nacional de Estadística y Geografía)[cite: 1].
+* **Dataset:** ENIGH 2024 (Encuesta Nacional de Ingresos y Gastos de los Hogares), specifically **"Cuadro 1.3"**[cite: 1].
+
+## 2. Steps Followed
+1. **Locate the original INEGI table**[cite: 1].
+2. **Identify dimensions and metrics** for data organization[cite: 1].
+3. **Generate the table in Tidy format** using Google Sheets[cite: 1].
+4. **Connect with Looker Studio** to build the report dashboard[cite: 1].
+5. **Add filters, visuals, and descriptions** inside the dashboard[cite: 1].
+
+## 3. Tidy Data Structure
+The tidy dataset was structured considering the following variables:
+
+### Dimensions
+* Entidad federativa (State / Federal Entity)[cite: 1]
+* Tamaño de localidad (Locality size)[cite: 1]
+* Hogares (Households)[cite: 1]
+* Total de integrantes del hogar (Total household members)[cite: 1]
+* Edad del jefe (Age of the head of the household)[cite: 1]
+* Integrantes del hogar de 15 a 64 años (Household members aged 15 to 64)[cite: 1]
+* Integrantes del hogar de 65 y más años (Household members aged 65 and over)[cite: 1]
+* Integrantes del hogar de 15 y más años económicamente activos (Economically active household members aged 15 and over)[cite: 1]
+* Integrantes del hogar de 15 y más años no económicamente activos (Non-economically active household members aged 15 and over)[cite: 1]
+* Perceptores por hogar (Income recipients per household)[cite: 1]
+* Integrantes del hogar ocupados (Employed household members)[cite: 1]
+
+### Metrics
+* Valor / promedio estimado (Estimated value / average)[cite: 1]
+
+## 4. Looker Studio Report Overview
+Using Looker Studio (formerly Data Studio), we developed an interactive report featuring:
+* **Title:** Clear identification of the analytical context[cite: 1].
+* **Visuals:** Charts and summary cards representing the demographic and economic indicators[cite: 1].
+* **Filters:** Interactive controls allowing users to filter data by state and locality size[cite: 1].
+* **Descriptions:** Explanatory text blocks inside the dashboard to guide interpretation[cite: 1].

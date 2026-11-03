@@ -3,8 +3,8 @@
 Table 7.6 – QUARTERLY MONETARY AVERAGE INCOME BY FEDERAL ENTITY OF THE POPULATION THAT CONSIDERS ITSELF AFRO-DESCENDANT OR NOT, ACCORDING TO SEX.
 
 * Authors: [Claudia Xochipa Vazquez / Team members]
-* Processed Data Source: 🔗 [View Processed Google Sheet]_(https://docs.google.com/spreadsheets/d/1qVIgIN19VPug9szwohLLFh7YGfEVZxcAS5ZWFuNwciU/edit?usp=sharing).
-* Interactive Dashboard: 📊 [View Looker Studio Report]_(https://datastudio.google.com/reporting/fa32e2ca-a86a-4874-b778-868d1675ac8f).
+* Processed Data Source: 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1qVIgIN19VPug9szwohLLFh7YGfEVZxcAS5ZWFuNwciU/edit?usp=sharing).
+* Interactive Dashboard: 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/fa32e2ca-a86a-4874-b778-868d1675ac8f).
 
 🛠️ Step-by-Step Data Pipeline & Analytical Process
 

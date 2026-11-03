@@ -1,4 +1,4 @@
-📊 INEGI. National Household Income and Expenditure Survey (ENIGH) 2024. Tables by Federal Entity. 2025.
+📊 INEGI National Household Income and Expenditure Survey (ENIGH) 2024. Tables by Federal Entity. 2025.
 
 Table 7.6 – QUARTERLY MONETARY AVERAGE INCOME BY FEDERAL ENTITY OF THE POPULATION THAT CONSIDERS ITSELF AFRO-DESCENDANT OR NOT, ACCORDING TO SEX.
 

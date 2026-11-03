@@ -26,4 +26,4 @@ Cuadro 3.5 A - INGRESOS Y GASTOS EN LOS HOGARES POR ENTIDAD FEDERATIVA
 5. **Dashboard Design & Interactive Visuals:**
    * Designed and structured the interactive dashboard layout.
    * Built analytical visualizations, summary KPI scorecards, descriptive notes, and dynamic control filters for exploratory data analysis.
-   * *Final Dashboard Reference:* `docs/screenshots/Cuadro_3_5_A_dashboard.png`
+   * *Final Dashboard Reference:* ![Dashboard](Cuadro_3_5A_INGRESO_CORRIENTE_POR_LA_COMPOSICIÓN_DE_LAS_PRINCIPALES_FUENTES_DE_INGRESO_DASHBOARD.jpeg)

@@ -1,5 +1,5 @@
 ### 📊 INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025.
-Cuadro 1.1 - POBLACIÓN TOTAL POR GRUPOS DE EDAD Y ENTIDAD FEDERATIVA SEGÚN SEXO Y TAMAÑO DE LOCALIDAD
+Table 1.1 - Total Population by Age Group and State by Sex and Locality Size
 * **Autors:** Yamileth Garcia Hernandez / Servio Edoardo Lima Fragoso 
 * **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1KiwOJfW-92jXsD7RPhwJFm3Jjw-ttWELdDIVnFCa8gE/edit?gid=812402253#gid=812402253)
 * **Interactive Dashboard:** 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/4b5097c9-4285-4b60-828d-41a31d5301f1/page/1X59F)

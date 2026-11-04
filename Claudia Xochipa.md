@@ -13,7 +13,7 @@ Table 7.6 – QUARTERLY MONETARY AVERAGE INCOME BY FEDERAL ENTITY OF THE POPULAT
 * Selected the original data table from INEGI's National Household Income and Expenditure Survey (ENIGH) 2024.
 * The table provides information about average income by federal entity, Afro-descendant status, and sex.
 
-[Original INEGI Table](Cuadro_7_6_Original_Table.jpg).
+[Original INEGI Table](docs/screenshots/Cuadro_7_6_Original_Table.jpg).
 
 2. Variable Identification (Dimensions vs. Metrics):
 

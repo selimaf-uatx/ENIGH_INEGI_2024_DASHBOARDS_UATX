@@ -14,8 +14,6 @@ Table 7.6 – QUARTERLY MONETARY AVERAGE INCOME BY FEDERAL ENTITY OF THE POPULAT
 * The table presents quarterly average monetary income by federal entity of the population that considers itself Afro-descendant or not, according to sex.
 * Original Data Source: [INEGI – ENIGH 2024](https://www.inegi.org.mx/programas/enigh/nc/2024/).
 
-"Original INEGI Table" (docs/screenshots/Cuadro_7_6_Original_Table.png)
-
 ![Original INEGI Table](docs/screenshots/Cuadro_7_6_Original_Table.jpg).
 
 2. Variable Identification (Dimensions vs. Metrics):

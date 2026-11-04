@@ -20,25 +20,26 @@ Table 7.6 – QUARTERLY MONETARY AVERAGE INCOME BY FEDERAL ENTITY OF THE POPULAT
 
 * "Federal Entity" (Entidad Federativa):
   
-  * Qualitative (Nominal). Represents the 32 federal entities of Mexico.
+  * Qualitative (Nominal). Represents the federal entities of Mexico, including the national-level data.
 
 * "Afro-descendant Status" (Condición de Afrodescendencia):
   
-  * Qualitative (Nominal). Identifies whether individuals consider themselves Afro-descendant or not.
+  * Qualitative (Nominal). Identifies whether the population considers itself Afro-descendant or not.
 
 * "Sex" (Sexo):
   
   * Qualitative (Nominal). Classifies the information into men, women, and total men and women.
-
+  
 * "Average Income" (Ingreso Promedio):
   
-  * Quantitative. Represents the average income corresponding to each federal entity and demographic category.
+  * Quantitative. Represents the quarterly average monetary income, measured in Mexican pesos, for each demographic category.
 
 3. Tidy Data Transformation:
 
-* Organized the dataset into a structured tabular format, using one row for each combination of federal entity, Afro-descendant status, and sex.
-* Standardized the column headings and arranged the information into four main variables: "Federal Entity", "Afro-descendant Status", "Sex", and "Average Income".
-* This structure facilitates data filtering, comparison, and visualization in Business Intelligence tools.
+* Transformed the original dataset from a wide format into a long format (Tidy Data).
+*  Separated the original income columns (Total, Men, and Women) into individual records under a single variable called Sex.
+* Organized the information into four variables: Federal Entity, Afro-descendant Status, Sex, and Average Income.
+* This transformation created a structured dataset that facilitates filtering, comparison, and visualization in Business Intelligence tools.
 
 Normalized Dataset Preview:
 
@@ -47,14 +48,16 @@ Normalized Dataset Preview:
 4. BI Connection:
 
 * Connected the processed Google Sheets document to Looker Studio as a data source.
-* Used the four available variables to organize the information and create interactive visualizations.
-* Configured "Average Income" as a numerical metric, allowing income values to be analyzed and compared across different categories.
+* Used the four variables to organize and configure the dashboard.
+* Identified Federal Entity, Afro-descendant Status, and Sex as dimensions, while Average Income was used as the numerical metric.
+* Configured the metric to allow comparisons of average income across the different demographic categories and federal entities.
 
 5. Dashboard Design & Interactive Visuals:
 
-* Developed an interactive dashboard to analyze average income across the federal entities of Mexico.
-* The dashboard uses graphical visualizations to compare average income according to Afro-descendant status and sex.
-* The available dimensions allow users to explore differences between federal entities and demographic categories.
+* Developed an interactive dashboard in Looker Studio to analyze quarterly average monetary income across the federal entities of Mexico.
+* Incorporated different graphical visualizations to represent and compare income levels.
+* The dashboard allows users to explore differences according to federal entity, Afro-descendant status, and sex.
+* These visualizations facilitate the analysis of income distribution and comparisons between demographic groups.
 
 Final Dashboard Preview:
 

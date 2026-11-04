@@ -17,7 +17,8 @@ Cuadro 3.5 A - INGRESOS Y GASTOS EN LOS HOGARES POR ENTIDAD FEDERATIVA
 3. **Tidy Data Transformation:**
    * Reshaped and unpivoted the complex matrix table into a normalized flat structure (*Tidy Data*) in Google Sheets.
    * Removed header overlays, empty padding rows, and summary totals/subtotals to eliminate risk of double-counting in business intelligence aggregations.
-   * *Normalized Dataset Reference:* `docs/screenshots/Cuadro_3_5_A_tidy_format_table.png`
+   * *Normalized Dataset Reference:*  ![Tidy Data]
+   (Cuadro_3_5A_INGRESO_CORRIENTE_POR_LA_COMPOSICIÓN_DE_LAS_PRINCIPALES_FUENTES_DE_INGRESO_TIDY_FORMAT_TABLE.png)
 
 4. **BI Connection:**
    * Connected the processed Google Sheet directly to Looker Studio as a dynamic live data source.

@@ -3,39 +3,43 @@
 ## Introduction
 We are currently working on a collaborative repository on GitHub[cite: 1]. After setting up the initial `README.md` file, this document outlines the steps followed, the original dataset used, its transformation into a tidy format using Google Sheets based on specific dimensions and metrics, and the final report created in Looker Studio Overview[cite: 1].
 
-## 1. Data Source
-* **Origin:** INEGI (Instituto Nacional de Estadística y Geografía)[cite: 1].
-* **Dataset:** ENIGH 2024 (Encuesta Nacional de Ingresos y Gastos de los Hogares), specifically **"Cuadro 1.3"**[cite: 1].
+## 1. Project Resources
+* **Tidy Data Sheet (Google Sheets):** [View Data Sheet](https://docs.google.com/spreadsheets/d/1j9JcLNK94cttNesWORkAACQC5XBmXSoL_z58_eG2IVg/edit?usp=sharing)
+* **Interactive Dashboard (Looker Studio):** [View Dashboard](https://datastudio.google.com/s/laHu2g3S8mc)
 
-## 2. Steps Followed
+## 2. Data Source
+* **Origin:** INEGI (National Institute of Statistics and Geography)[cite: 1].
+* **Dataset:** ENIGH 2024 (National Survey of Household Income and Expenditure), specifically **"Table 1.3"**[cite: 1].
+
+## 3. Steps Followed
 1. **Locate the original INEGI table**[cite: 1].
 2. **Identify dimensions and metrics** for data organization[cite: 1].
 3. **Generate the table in Tidy format** using Google Sheets[cite: 1].
 4. **Connect with Looker Studio** to build the report dashboard[cite: 1].
 5. **Add filters, visuals, and descriptions** inside the dashboard[cite: 1].
 
-## 3. Tidy Data Structure
+## 4. Tidy Data Structure
 The tidy dataset was structured considering the following variables:
 
 ### Dimensions
-* Entidad federativa (State / Federal Entity)[cite: 1]
-* Tamaño de localidad (Locality size)[cite: 1]
-* Hogares (Households)[cite: 1]
-* Total de integrantes del hogar (Total household members)[cite: 1]
-* Edad del jefe (Age of the head of the household)[cite: 1]
-* Integrantes del hogar de 15 a 64 años (Household members aged 15 to 64)[cite: 1]
-* Integrantes del hogar de 65 y más años (Household members aged 65 and over)[cite: 1]
-* Integrantes del hogar de 15 y más años económicamente activos (Economically active household members aged 15 and over)[cite: 1]
-* Integrantes del hogar de 15 y más años no económicamente activos (Non-economically active household members aged 15 and over)[cite: 1]
-* Perceptores por hogar (Income recipients per household)[cite: 1]
-* Integrantes del hogar ocupados (Employed household members)[cite: 1]
+* **State / Federal Entity** (*Entidad federativa*)[cite: 1]
+* **Locality Size** (*Tamaño de localidad*)[cite: 1]
+* **Households** (*Hogares*)[cite: 1]
+* **Total Household Members** (*Total de integrantes del hogar*)[cite: 1]
+* **Age of Household Head** (*Edad del jefe*)[cite: 1]
+* **Household Members Aged 15 to 64** (*Integrantes del hogar de 15 a 64 años*)[cite: 1]
+* **Household Members Aged 65 and Over** (*Integrantes del hogar de 65 y más años*)[cite: 1]
+* **Economically Active Household Members Aged 15 and Over** (*Integrantes del hogar de 15 y más años económicamente activos*)[cite: 1]
+* **Non-Economically Active Household Members Aged 15 and Over** (*Integrantes del hogar de 15 y más años no económicamente activos*)[cite: 1]
+* **Income Recipients per Household** (*Perceptores por hogar*)[cite: 1]
+* **Employed Household Members** (*Integrantes del hogar ocupados*)[cite: 1]
 
 ### Metrics
-* Valor / promedio estimado (Estimated value / average)[cite: 1]
+* **Estimated Value / Average** (*Valor / promedio estimado*)[cite: 1]
 
-## 4. Looker Studio Report Overview
+## 5. Looker Studio Report Overview
 Using Looker Studio (formerly Data Studio), we developed an interactive report featuring:
 * **Title:** Clear identification of the analytical context[cite: 1].
-* **Visuals:** Charts and summary cards representing the demographic and economic indicators[cite: 1].
+* **Visuals:** Charts and summary cards representing demographic and economic indicators[cite: 1].
 * **Filters:** Interactive controls allowing users to filter data by state and locality size[cite: 1].
 * **Descriptions:** Explanatory text blocks inside the dashboard to guide interpretation[cite: 1].

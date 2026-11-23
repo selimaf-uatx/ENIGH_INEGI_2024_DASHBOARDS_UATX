@@ -2,8 +2,8 @@
 
 CUADRO 1.2 POBLACIÓN TOTAL POR ENTIDAD FEDERATIVA Y GRUPOS DE EDAD SEGÚN SEXO Y TAMAÑO DE LOCALIDAD
 
-* **Author:** Yamileth
-* **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1T0CZA8kbn7BW5JW_H8Qb7Fnwn8N0YXx_9eNoasBK9Wg/edit?usp=sharing)
+* **Author:** Yamileth Garcia Hernandez 
+* **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1T0CZA8kbn7BW5JW_H8Qb7Fnwn8N0YXx_9eNoasBK9Wg/edit?usp=sharing) pestaña 1.2 orginal 
 * **Interactive Dashboard:** 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/17b68842-8ca6-4bdb-8548-61bca48a478c)
 
 ---

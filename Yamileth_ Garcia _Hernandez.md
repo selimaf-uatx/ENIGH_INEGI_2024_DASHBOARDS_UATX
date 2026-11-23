@@ -2,8 +2,8 @@
 
 CUADRO 4.4 GASTO CORRIENTE MONETARIO TRIMESTRAL EN ALIMENTOS Y BEBIDAS, POR GRUPOS DE PRODUCTOS ORDENADOS Y TIPO DE NUTRIENTES POR ENTIDAD FEDERATIVA
 
-* **Author:** Yamileth
-* **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1T0CZA8kbn7BW5JW_H8Qb7Fnwn8N0YXx_9eNoasBK9Wg/edit?usp=sharing)
+* **Author:** Yamileth Garcia Hernandez 
+* **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1T0CZA8kbn7BW5JW_H8Qb7Fnwn8N0YXx_9eNoasBK9Wg/edit?usp=sharing) pestaña 4.4 orginial 
 * **Interactive Dashboard:** 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/cb408cc9-73d4-4e9b-aef9-c18207e3db85)
 
 ---

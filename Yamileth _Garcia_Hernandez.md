@@ -2,9 +2,9 @@
 
 CUADRO 4.2A GASTO CORRIENTE MONETARIO PROMEDIO TRIMESTRAL POR LA COMPOSICIÓN DE LOS GRANDES RUBROS DEL GASTO Y ENTIDAD FEDERATIVA SEGÚN DECILES DE HOGARES DE ACUERDO CON SU INGRESO CORRIENTE TOTAL TRIMESTRAL
 
-* **Author:** Yamileth
-* **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1T0CZA8kbn7BW5JW_H8Qb7Fnwn8N0YXx_9eNoasBK9Wg/edit?usp=sharing)
-* **Interactive Dashboard:** 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/4426c8d2-dce4-4078-b2a1-877b08b0ab82)
+* **Author:** Yamileth Garcia Hernández 
+* **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1T0CZA8kbn7BW5JW_H8Qb7Fnwn8N0YXx_9eNoasBK9Wg/edit?usp=sharing) tabla 2.4A
+* **Interactive Dashboard:** 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/cd8ce752-b8e1-42de-9e59-50e65faaab0a)
 
 ---
 

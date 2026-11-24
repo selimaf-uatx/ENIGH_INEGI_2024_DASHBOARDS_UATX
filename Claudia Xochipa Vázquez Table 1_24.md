@@ -53,4 +53,6 @@ Normalized Dataset Preview:
 
 Final Dashboard Preview:
 
+![Dashboard Screenshot](docs/screenshots/Cuadro_1_24_Dashboard.jpg).
+
 

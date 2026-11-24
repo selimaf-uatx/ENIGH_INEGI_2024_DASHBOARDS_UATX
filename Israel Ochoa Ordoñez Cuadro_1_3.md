@@ -8,7 +8,7 @@ Cuadro 1.3 - HOGARES, TOTAL DE INTEGRANTES DEL HOGAR, EDAD DEL JEFE, INTEGRANTES
 #### 🛠️ Step-by-Step Data Pipeline & Analytical Process
 
 1. **INEGI Source Table Selection:**
-  - Downloaded raw data table: ![INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025. Cuadro 1.3 - Hogares e indicadores sociodemográficos por entidad federativa y tamaño de localidad.](docs/screenshots/Cuadro_1_3_original_table.png)
+  - Downloaded raw data table: ![INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025. Cuadro 1.3 - Hogares e indicadores sociodemográficos por entidad federativa y tamaño de localidad.](docs/screenshots/Cuadro_1_3_Averages_of_selected_sociodemographic_and_economic_caracteristics_of_households_and_their_members_by_federal_entity_according_to_locality_size_Original_table.png)
 
 2. **Variable Identification (Dimensions vs. Metrics):**
 - **`State` (*Entidad Federativa*):**

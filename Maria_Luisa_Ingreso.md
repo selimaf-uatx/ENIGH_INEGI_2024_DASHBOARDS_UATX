@@ -27,7 +27,7 @@ Table 7.4 - Average Quarterly Monetary Income by State and Education Level by Se
    * Reshaped and unpivoted the original matrix table into a normalized flat structure (*Tidy Data*) in Google Sheets, converting the Total, Hombres and Mujeres columns into a single `Gender` column, and removing header overlays and title rows. Since the metric is an average, values are never summed across rows.
 
    ##### Normalized Dataset Preview:
-   ![Tidy Data Screenshot](tidy_format_table.png)
+   ![Tidy Data Screenshot](dashboard.jpeg)
 
 4. **BI Connection:**
    * Connected the processed Google Sheet directly to Looker Studio as a live data source, validating metric aggregation settings (ensuring `Average Income` is set to `AVG` instead of `SUM`, since it is an average).
@@ -36,4 +36,4 @@ Table 7.4 - Average Quarterly Monetary Income by State and Education Level by Se
    * Built an interactive dashboard featuring key metrics (KPI scorecards), a grouped bar chart comparing average income by education level and gender, a heatmap table by state, and dynamic slicers/filters for `State`, `Education Level`, and `Gender`.
 
    ##### Final Dashboard Preview:
-   ![Dashboard Screenshot](dashboard.jpeg)
+   ![Dashboard Screenshot](tidy_format_table.png)

@@ -2,9 +2,9 @@
 
 Table 1.24 – OWNER-OCCUPIED DWELLINGS BY FEDERAL ENTITY, ACCORDING TO ACQUISITION METHOD
 
-- Authors: [Claudia Xochipa Vázquez]
-- Processed Data Source: 🔗 "View Processed Google Sheet" (INSERT_YOUR_GOOGLE_SHEETS_LINK)
-- Interactive Dashboard: 📊 "View Looker Studio Report" (INSERT_YOUR_LOOKER_STUDIO_LINK)
+* Authors: [Claudia Xochipa Vázquez]
+* Processed Data Source: 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1we1UNfk8KICUtDQs_jvJKBytxAh2RwvjYIxHDWzVu-g/edit?usp=drivesdk).
+* Interactive Dashboard: 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/9bc2125b-5092-40c7-9685-0d45d2901083).
 
 ---
 

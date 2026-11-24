@@ -1,7 +1,7 @@
 
 ### 📊 INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025.
 Cuadro 1.2 - PORCENTAJE DE INTEGRANTES DEL HOGAR DE 65 AÑOS Y MÁS QUE RECIBEN ATENCIÓN MÉDICA, SALUD PREVENTIVA Y PREVISIÓN SOCIAL SEGÚN PARENTESCO Y SEXO
-- **Authors:** [Tu Nombre] / [Nombre de tu compañero(a) si aplica]
+- **Authors:** Israel Ochoa Ordoñez
 - **Processed Data Source:** 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1ixzMPVw9_2EmSIm-OYm-G_u8ISN98sIj_-YzZOFMHPs/edit?usp=sharing)
 - **Interactive Dashboard:** 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/384b4750-b9fb-4bfd-9786-fb8a1576442e)
 

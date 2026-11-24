@@ -8,7 +8,7 @@ Table 7.4 - Average Quarterly Monetary Income by State and Education Level by Se
 #### 🛠️ Step-by-Step Data Pipeline & Analytical Process
 
 1. **INEGI Source Table Selection:**
-   * Downloaded raw data table: ![INEGI. Encuesta Nacional de Ingresos y Gastos de los Hogares. ENIGH 2024. Tabulados por entidad federativa. 2025. Cuadro 7.4 - INGRESO PROMEDIO TRIMESTRAL MONETARIO POR ENTIDAD FEDERATIVA Y NIVEL DE ESCOLARIDAD SEGÚN SEXO.](original_table.jpeg)
+   * Downloaded raw data table: ![INEGIEncuesta Nacional de Ingresos y Gastos de los Hogares ENIGH 2024 Tabulados por entidad federativa 2025 Cuadro 7.4 - INGRESO PROMEDIO TRIMESTRAL MONETARIO POR ENTIDAD FEDERATIVA Y NIVEL DE ESCOLARIDAD SEGÚN SEXO.](original_table.jpeg)
 
 2. **Variable Identification (Dimensions vs. Metrics):**
    * **`State` (*Entidad Federativa*):**

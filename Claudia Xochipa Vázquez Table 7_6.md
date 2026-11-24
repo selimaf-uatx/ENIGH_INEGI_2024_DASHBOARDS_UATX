@@ -4,7 +4,7 @@ Table 7.6 – QUARTERLY MONETARY AVERAGE INCOME BY FEDERAL ENTITY OF THE POPULAT
 
 * Authors: [Claudia Xochipa Vazquez]
 * Processed Data Source: 🔗 [View Processed Google Sheet](https://docs.google.com/spreadsheets/d/1qVIgIN19VPug9szwohLLFh7YGfEVZxcAS5ZWFuNwciU/edit?usp=sharing).
-* Interactive Dashboard: 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/2c1b8b97-9d14-4e0d-8191-1487f23621e1).
+* Interactive Dashboard: 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/f3416fb9-ba87-48d8-8684-b4793a0c4e56).
 
 🛠️ Step-by-Step Data Pipeline & Analytical Process
 

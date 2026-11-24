@@ -51,7 +51,7 @@ Cuadro 1.3 - HOGARES, TOTAL DE INTEGRANTES DEL HOGAR, EDAD DEL JEFE, INTEGRANTES
 - Reshaped and unpivoted the original matrix table into a normalized flat structure (*Tidy Data*) in Google Sheets, removing header overlays and total/subtotal rows to avoid double-counting.
    
    ##### Normalized Dataset Preview:
-   ![Tidy Data Screenshot](docs/screenshots/Cuadro_1_3_tidy_format_table.png)
+   ![Tidy Data Screenshot](docs/screenshots/Cuadro_1_3_Averages_of_selected_sociodemographic_and_economic_caracteristics_of_households_and_their_members_by_federal_entity_according_to_locality_size_Tidy_forma_table.png)
 
 4. **BI Connection:**
 - Connected the processed Google Sheet directly to Looker Studio as a live data source, validating metric aggregation settings (ensuring `Estimated Value / Average` is properly configured).
@@ -60,4 +60,4 @@ Cuadro 1.3 - HOGARES, TOTAL DE INTEGRANTES DEL HOGAR, EDAD DEL JEFE, INTEGRANTES
 - Built an interactive dashboard featuring key metrics (KPI scorecards), breakdown charts, explanatory descriptions, and dynamic slicers/filters for `State` and `Locality Size`.
 
    ##### Final Dashboard Preview:
-   ![Dashboard Screenshot](docs/screenshots/Cuadro_1_3_dashboard.png)
+   ![Dashboard Screenshot](docs/screenshots/Cuadro_1_3_Averages_of_selected_sociodemographic_and_economic_caracteristics_of_households_and_their_members_by_federal_entity_according_to_locality_size_Dashboard.png)

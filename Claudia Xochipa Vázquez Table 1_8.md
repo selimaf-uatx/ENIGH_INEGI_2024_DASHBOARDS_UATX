@@ -13,7 +13,7 @@ Table 1.8 – DWELLINGS BY FEDERAL ENTITY, ACCORDING TO AGE
 
 - Downloaded raw data table:
 
-"INEGI Table 1.8 – Dwellings by Federal Entity, According to Age" (docs/screenshots/Cuadro_1_8_Viviendas_por_antiguedad_original_table.jpg)
+"INEGI Table 1.8 – Dwellings by Federal Entity, According to Age" Original Data Source: [INEGI – ENIGH 2024](https://www.inegi.org.mx/programas/enigh/nc/2024/).(docs/screenshots/Cuadro_1_8_Viviendas_por_antiguedad_original_table.jpg)
 
 2. Variable Identification (Dimensions vs. Metrics):
 

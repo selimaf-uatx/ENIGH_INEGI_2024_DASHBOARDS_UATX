@@ -15,8 +15,7 @@ Original Data Source: [INEGI – ENIGH 2024](https://www.inegi.org.mx/programas/
 
 - Downloaded raw data table:
 
-"INEGI Table 1.24 – Owner-Occupied Dwellings by Federal Entity, According to Acquisition Method
-(docs/screenshots/Cuadro_1_24_Viviendas_propias_por_adquisicion_original_table.jpg)
+![INEGI Table 1.24 – Owner-Occupied Dwellings by Federal Entity, According to Acquisition Method](docs/screenshots/Cuadro_1_8_Original_Table.jpg).
 
 2. Variable Identification (Dimensions vs. Metrics):
 

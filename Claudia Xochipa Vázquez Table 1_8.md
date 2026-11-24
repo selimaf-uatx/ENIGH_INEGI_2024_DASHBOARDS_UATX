@@ -51,4 +51,5 @@ Normalized Dataset Preview:
 
 Final Dashboard Preview:
 
-"Dashboard Screenshot" (docs/screenshots/Cuadro_1_8_Viviendas_por_antiguedad_dashboard.jpg)
+![Dashboard Screenshot](docs/screenshots/Cuadro_1_8_Dashboard.jpg).
+

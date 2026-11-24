@@ -37,7 +37,7 @@ Table 1.8 – DWELLINGS BY FEDERAL ENTITY, ACCORDING TO AGE
 
 Normalized Dataset Preview:
 
-"Tidy Data Screenshot" (docs/screenshots/Cuadro_1_8_Viviendas_por_antiguedad_tidy_format_table.jpg)
+![Tidy Data Screenshot](docs/screenshots/Cuadro_1_8_Tidy_Data.jpg).
 
 4. BI Connection:
 

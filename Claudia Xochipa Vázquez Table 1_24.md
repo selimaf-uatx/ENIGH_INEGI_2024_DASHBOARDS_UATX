@@ -37,7 +37,7 @@ Original Data Source: [INEGI – ENIGH 2024](https://www.inegi.org.mx/programas/
 
 Normalized Dataset Preview:
 
-"Tidy Data Screenshot" (docs/screenshots/Cuadro_1_24_Viviendas_propias_por_adquisicion_tidy_format_table.jpg)
+![Tidy Data Screenshot](docs/screenshots/Cuadro_1_24_Tidy_Data.jpg).
 
 4. BI Connection:
 

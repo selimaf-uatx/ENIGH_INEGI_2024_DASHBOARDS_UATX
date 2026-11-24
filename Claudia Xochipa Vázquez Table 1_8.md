@@ -4,7 +4,7 @@ Table 1.8 – DWELLINGS BY FEDERAL ENTITY, ACCORDING TO AGE
 
 * Authors: [Claudia Xochipa Vázquez]
 * Processed Data Source: 🔗 [View Processed Google Sheet(https://docs.google.com/spreadsheets/d/1we1UNfk8KICUtDQs_jvJKBytxAh2RwvjYIxHDWzVu-g/edit?usp=drivesdk).
-* Interactive Dashboard: 📊 [View Looker Studio Report] (https://datastudio.google.com/reporting/2c1b8b97-9d14-4e0d-8191-1487f23621e1).
+* Interactive Dashboard: 📊 [View Looker Studio Report](https://datastudio.google.com/reporting/2c1b8b97-9d14-4e0d-8191-1487f23621e1).
 
 
 🛠️ Step-by-Step Data Pipeline & Analytical Process
